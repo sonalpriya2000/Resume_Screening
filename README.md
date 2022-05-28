@@ -3,9 +3,9 @@
 Writing a resume is not a trivial task, especially when it comes to the right selection of keywords.Today the major problem being faced across the industry is how to accuire the right talent, using minimal resource over the internet and in minimal time.
 There are three major challenges that are required to be overcome, to bring  efficiencies to the complete process, that are :
 
-## Separating the right candidate from bulk
-## Making  sense of candidates Resume
-## Knowing that candidate can do before company hires them
+ 1) Separating the right candidate from bulk
+ 2) Making  sense of candidates Resume
+ 3) Knowing that candidate can do before company hires them
 
 ### Approach Used : Content Based Filtering 
 
